@@ -23,7 +23,7 @@ Please note that the paths mentioned in the script and batch file are based on t
 The project has the following folder structure:
 
 - `RUNME.vbs`: VBScript file that triggers the execution of the batch script.
-- `bat\script.bat`: Batch script responsible for copying files.
+- `bat/script.bat`: Batch script responsible for copying files.
 - `copied/`: A folder where the copied files are stored.
 
 You can modify the script and batch file to suit your needs.
@@ -56,8 +56,8 @@ VBScript и BAT-файл для копирования определенных 
 Проект имеет следующую структуру папок:
 
 - `RUNME.vbs`: Файл VBScript, запускающий выполнение пакетного скрипта.
-- `bat\script.bat`: Пакетный скрипт, отвечающий за копирование файлов.
-- `copied/`: Папка, в которой хранятся скопированные файлы.
+- `bat/script.bat`: Пакетный скрипт, отвечающий за копирование файлов.
+- `copied`: Папка, в которой хранятся скопированные файлы.
 
 Вы можете изменить скрипт и пакетный файл в соответствии с вашими требованиями.
 
